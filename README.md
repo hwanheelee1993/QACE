@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # UNITER: UNiversal Image-TExt Representation Learning
 This is the official repository of [UNITER](https://arxiv.org/abs/1909.11740) (ECCV 2020).
 This repository currently supports finetuning UNITER on
@@ -272,3 +273,6 @@ If you find this code useful for your research, please consider citing:
 ## License
 
 MIT
+=======
+# t5vqa
+>>>>>>> 7c041acbec6c4e3e31e4bab35f94c0fc4fd45477
