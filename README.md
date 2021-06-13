@@ -2,7 +2,7 @@
 Refer to https://github.com/hwanheelee1993/BUTD-UNITER-NLVR2
 
 ## 1. Install Requirements
-python >= 3.6
+python 3.6
 pip install -r requirements.txt
 
 ## 2. Pretrained model download
