@@ -1,5 +1,5 @@
 # QACE (Will be Updated)
-This repository provides an unferenced image captioning metric from our EMNLP-Findings 2021 paper [QACE: Asking Questions to Evaluate an Image Caption
+This repository provides an image captioning metric from our EMNLP-Findings 2021 paper [QACE: Asking Questions to Evaluate an Image Caption
 ](https://arxiv.org/abs/2108.12560).
 
 
