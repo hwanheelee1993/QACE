@@ -1,4 +1,4 @@
-# QACE (Will be Updated Soon)
+# QACE (Will be Updated after EMNLP conference)
 This repository provides an image captioning metric from our EMNLP-Findings 2021 paper [QACE: Asking Questions to Evaluate an Image Caption
 ](https://arxiv.org/abs/2108.12560).
 
