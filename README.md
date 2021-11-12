@@ -2,6 +2,8 @@
 This repository provides an image captioning metric from our EMNLP-Findings 2021 paper [QACE: Asking Questions to Evaluate an Image Caption
 ](https://arxiv.org/abs/2108.12560).
 
+
+## 1) Visual-T5
 ## 0. Detection Feature Extraction
 Refer to https://github.com/hwanheelee1993/BUTD-UNITER-NLVR2
 
@@ -16,6 +18,9 @@ unzip the file to "ckpt"
 
 ## 3. Run Demo
 Refer to demo.ipynb
+
+## 2) Computing QACE
+Will be updated soon.
 
 ## Reference
 ```
