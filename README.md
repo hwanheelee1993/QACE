@@ -3,20 +3,20 @@ This repository provides an image captioning metric from our EMNLP-Findings 2021
 ](https://arxiv.org/abs/2108.12560).
 
 
-## 1) Visual-T5
-## 0. Detection Feature Extraction
+## 1) Visual-T5 - Abstractive VQA model
+### 0. Detection Feature Extraction
 Refer to https://github.com/hwanheelee1993/BUTD-UNITER-NLVR2
 
-## 1. Install Requirements
+### 1. Install Requirements
 python 3.6.6\
 pip install -r requirements.txt
 
-## 2. Pretrained model download
+### 2. Pretrained model download
 https://vqamodel.s3.us-east-2.amazonaws.com/t5vqa/ckpt.zip
 
 unzip the file to "ckpt"
 
-## 3. Run Demo
+### 3. Run Demo
 Refer to demo.ipynb
 
 ## 2) Computing QACE
