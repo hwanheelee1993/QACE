@@ -20,7 +20,14 @@ unzip the file to "ckpt"
 Refer to demo.ipynb
 
 ## 2) Computing QACE
-Will be updated soon.
+compute_qace.py will be uploaded until 2022/03/04.
+
+python compute_qace.py --img_db $IMG_DB_DIR \
+                        --txt_db $TXT_DB_DIR \
+                        --vqa_model_path $VQA_MODEL_DIR \
+                        --tqa_model_path $TQA_MODEL_DIR \
+                        --tqg_model_path $TQG_MODEL_DIR
+### 0. 
 
 ## Reference
 ```
