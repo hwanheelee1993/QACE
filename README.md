@@ -24,7 +24,6 @@ Refer to qace_demo.ipynb
 
 Answer similarity computation code will be updated soon. (e.g. using BERTScore)
 
-```
 ## Reference
 ```
 @misc{lee2021qace,
